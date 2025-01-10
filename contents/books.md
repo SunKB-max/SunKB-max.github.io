@@ -1,0 +1,3 @@
+<strong>Sun Peijin</strong>, Lu Wei. <strong>Building Healthy Communities: Environmental Survey and Analysis Method.</strong> 2023. Published in Chinese by China Architecture & Building Press.
+
+*This book is a comprehensive resource for undergraduate and graduate students in health-related research. It covers healthy community theories, qualitative and quantitative methods, big data and AI technologies, and practical case studies, bridging theory and practice for urban planning and public health studies.*

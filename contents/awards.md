@@ -1,13 +1,7 @@
-- National Scholarship of Graduate Student, 2024.
+- Outstanding Doctoral Dissertation Award, Dalian University of Technology, 2021.
 
-- First-prize Scholarship of CUMT, 2024.
+- Outstanding Graduate Student, Dalian University of Technology, 2020.
 
-- First-prize Scholarship of CUMT, 2023.
+- CSC Scholarship Program, China Scholarship Council, 2017.
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Outstanding Undergraduate Graduate, Dalian University of Technology, 2014.
