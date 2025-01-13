@@ -1,4 +1,4 @@
-[DownLoad Resume](./sunpeijin_cv.pdf)
+[DownLoad Resume](SunKB-max.github.io/contents/sunpeijin_cv.pdf)
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
@@ -8,32 +8,32 @@
 sunpeijin75@gmail.com
 
 #### Professional Experience
-***University of North Carolina at Chapel Hill***               ***Chapel Hill, NC***
+***University of North Carolina at Chapel Hill***,               ***Chapel Hill, NC***
 
-Postdoc, Department of City and Regional Planning             2024-present
+Postdoc, Department of City and Regional Planning,            2024-present
 
-***Dalian University of Technology***                  ***Dalian, P.R.China***
+***Dalian University of Technology***,                  ***Dalian, P.R.China***
 
-Assistant Professor (Lecturer), Urban Planning                2020-2024
+Assistant Professor (Lecturer), Urban Planning,                2020-2024
 
 #### Education
-***Dalian University of Technology***                  ***Dalian, P.R.China***          
+***Dalian University of Technology***,                  ***Dalian, P.R.China***          
 
-Ph.D., Urban Planning                          2016-2020
+Ph.D., Urban Planning,                          2016-2020
 
-***University of North Carolina at Chapel Hill***               ***Chapel Hill, NC***
+***University of North Carolina at Chapel Hill***,               ***Chapel Hill, NC***
 
-Joint-Ph.D. student, Department of City and Regional Planning         2017-2018
+Joint-Ph.D. student, Department of City and Regional Planning,         2017-2018
 
-***Dalian University of Technology***                  ***Dalian, P.R.China***          
+***Dalian University of Technology***,                  ***Dalian, P.R.China***          
 
-Master of Engineering, Urban Planning                   2014-2016
+Master of Engineering, Urban Planning,                   2014-2016
 
-***Dalian University of Technology***                  ***Dalian, P.R.China***
+***Dalian University of Technology***,                  ***Dalian, P.R.China***
 
 (ranked among the top 10 engineering universities in China)
 
-Bachelor of Engineering, Urban Planning                   2009-2014
+Bachelor of Engineering, Urban Planning,                   2009-2014
 
 
 
