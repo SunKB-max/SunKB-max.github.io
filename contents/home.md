@@ -1,4 +1,4 @@
-[DownLoad Resume](SunKB-max.github.io/contents/sunpeijin_cv.pdf)
+[DownLoad Resume](https://sunkb-max.github.io/contents/sunpeijin_cv.pdf)
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
