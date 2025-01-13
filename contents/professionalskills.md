@@ -1,5 +1,5 @@
 #### Research Design & Data Analysis
-- Designed research frameworks for urban environments and healthy behaviors, resulting in 20+ peer-reviewed publications, a 360,000-word monograph, and leadership in 6 funded projects.
+- Designed research frameworks for urban environments and healthy behaviors, resulting in 20+ peer-reviewed publications, a monograph,  a 360,000-word monograph, and leadership in 6 funded projects.
 
 - Conducted advanced qualitative and quantitative analyses, integrating multi-modal data processing (e.g., images, text, spatial trajectories) and machine learning applications to generate actionable insights for decision-making.
 

@@ -21,3 +21,7 @@
 [6] Research on the community environmental quality and physical activity based on multi-source data fusion, ***\*Principal Investigator.\****
 
 **Fundamental Research Funds for the Central Universities                2020.01–2023.12**
+
+[7] Research on Planning Theories and Smart Methods for Improving Road Network Quality under the Dual Dynamics of Urban and Street-Level Perspectives, **participant.** 
+
+**National Natural Science Foundation of China**             **2023.01–2026.12**

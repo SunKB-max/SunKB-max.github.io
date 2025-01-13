@@ -1,4 +1,4 @@
-
+[DownLoad Resume](./sunpeijin_cv.pdf)
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
@@ -8,14 +8,32 @@
 sunpeijin75@gmail.com
 
 #### Professional Experience
-Postdoc, Department of City and Regional Planning, <strong>University of North Carolina at Chapel Hill</strong>, Chapel Hill, NC, 2024—present.\
-Assistant Professor (Lecturer), Urban Planning, <strong>Dalian University of Technology</strong>, Dalian, P.R.China, 2020—2024.
+***University of North Carolina at Chapel Hill***               ***Chapel Hill, NC***
+
+Postdoc, Department of City and Regional Planning             2024-present
+
+***Dalian University of Technology***                  ***Dalian, P.R.China***
+
+Assistant Professor (Lecturer), Urban Planning                2020-2024
 
 #### Education
-Ph.D., Urban Planning, <strong>Dalian University of Technology</strong>, Dalian, P.R.China, 2016—2020.\
-Joint-Ph.D. student, <strong>Department of City and Regional Planning, University of North Carolina at Chapel Hill</strong>, Chapel Hill, NC, 2017—2018.\
-M.E., Urban Planning, <strong>Dalian University of Technology</strong>, Dalian, P.R.China, 2014—2016.\
-B.E., Urban Planning, <strong>Dalian University of Technology</strong> (ranked among the top 10 engineering universities in China), Dalian, P.R.China, 2009—2014.
+***Dalian University of Technology***                  ***Dalian, P.R.China***          
+
+Ph.D., Urban Planning                          2016-2020
+
+***University of North Carolina at Chapel Hill***               ***Chapel Hill, NC***
+
+Joint-Ph.D. student, Department of City and Regional Planning         2017-2018
+
+***Dalian University of Technology***                  ***Dalian, P.R.China***          
+
+Master of Engineering, Urban Planning                   2014-2016
+
+***Dalian University of Technology***                  ***Dalian, P.R.China***
+
+(ranked among the top 10 engineering universities in China)
+
+Bachelor of Engineering, Urban Planning                   2009-2014
 
 
 
