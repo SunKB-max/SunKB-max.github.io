@@ -1,4 +1,4 @@
-- Distinguished Science and Technology Talent of Dalian             2021
+- <strong>Distinguished Science and Technology Talent</strong> of Dalian             2021
 
 - Outstanding Doctoral Dissertation Award, Dalian University of Technology      2021
 
