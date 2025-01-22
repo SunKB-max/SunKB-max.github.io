@@ -1,10 +1,10 @@
-- <strong>Distinguished Science and Technology Talent</strong> of Dalian             2021
+- <strong>Distinguished Science and Technology Talent</strong> of Dalian (Awarded RMB 300,000)             2021
 
-- Outstanding Doctoral Dissertation Award, Dalian University of Technology      2021
+- <strong>Outstanding Doctoral Dissertation Award</strong>, Dalian University of Technology      2021
 
-- Excellent Graduate Student, Dalian University of Technology           2020
+- <strong>Excellent Graduate Student</strong>, Dalian University of Technology           2020
 
-- CSC Scholarship Program, China Scholarship Council              2017
+- <strong>CSC Scholarship Program</strong>, China Scholarship Council              2017
 
-- Excellent Undergraduate, Dalian University of Technology             2014
+- <strong>Excellent Undergraduate</strong>, Dalian University of Technology             2014
 
