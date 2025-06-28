@@ -1,11 +1,15 @@
-#### Research Design & Data Analysis
-- Designed research frameworks for urban environments and healthy behaviors, resulting in 20+ peer-reviewed publications, a monograph,  a 360,000-word monograph, and leadership in 6 funded projects.
+#### Research Innovation & Data- driven Insight
+- **Quantitative Research Expertise**: Led end-to-end quantitative research; published 20+ peer-reviewed articles and 1 monograph, and built scalable, reproducible workflows.
 
-- Conducted advanced qualitative and quantitative analyses, integrating multi-modal data processing (e.g., images, text, spatial trajectories) and machine learning applications to generate actionable insights for decision-making.
+- **Data Wrangling & Processing**: Built robust pipelines to clean, transform, and integrate complex, messy, multi-source datasets (e.g., text, imagery, location-based mobility data, remote sensing), using advanced spatial-statistical techniques to support actionable, data-driven decisions.
 
-- Proficient using tools such as ArcGIS, SPSS, and Python.
+- **Data Visualization & Communication**: Translated complex analytical findings into clear, compelling visual narratives; presented at 7+ conferences, taught 8+ courses, mentored junior researchers, and produced stakeholder-focused insights for academic and applied audiences.
 
-#### Urban Planning & Project Leadership
-- Led design teams for two completed engineering projects: a Residential Community Development and the Dalian Port Cruise Terminal, coordinating collaboration among stakeholders and supervising 3D modeling, architectural design, and site planning to meet client requirements and regulatory standards.
+- **Geospatial Analysis Proficiency**: Proficient in spatial modeling, predictive mapping, temporal analysis, and multimodal data integration in real-world applications.
 
-- Served as a consulting advisor for the “Above Xinghai” Medical Mall Project in Dalian, utilizing data-driven insights and technical analysis to inform strategic decision-making and optimize project feasibility.
+#### Project Leadership & Real-World Applications
+- **Research Leadership (PI)**: Led 6 funded research projects as Principal Investigator, managing full-cycle workflows, timelines, and interdisciplinary research teams to deliver policy-relevant insights.
+
+- **Real Estate Project Leadership**: Directed 2 urban development projects (residential community & cruise terminal) between 2016 and 2019, coordinating with 4+ stakeholder groups and guiding spatial layout execution. Successfully supported completion of projects covering 100,000+ m2.  
+
+- **Strategic Consulting Engagement**: Advised on the Medical Mall Project (2024), leveraging geospatial analytics and predictive modeling to optimize spatial layout. Helped improve projected operational efficiency and supported investment decision-making.

@@ -1,12 +1,8 @@
-[DownLoad Resume](https://sunkb-max.github.io/contents/sunpeijin_cv.pdf)
-
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
 <!-- He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China. -->
 
-#### Email
-sunpeijin75@gmail.com
-
+#### Email  sunpeijin75@gmail.com
 #### Professional Experience
 ***University of North Carolina at Chapel Hill***,               ***Chapel Hill, NC***
 
@@ -35,5 +31,5 @@ Master of Engineering, Urban Planning,                   2014-2016
 
 Bachelor of Engineering, Urban Planning,                   2009-2014
 
-
-
+[DownLoad Resume](https://sunkb-max.github.io/contents/sunpeijin_cv.pdf)
+[Portfolio.pdf](https://sunkb-max.github.io/contents/Portfolio.pdf)
