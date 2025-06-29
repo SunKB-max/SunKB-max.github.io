@@ -3,6 +3,10 @@
 <!-- He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China. -->
 
 #### Email  sunpeijin75@gmail.com
+
+[DownLoad Resume](https://sunkb-max.github.io/contents/sunpeijin_cv.pdf)
+[Portfolio.pdf](https://sunkb-max.github.io/contents/Portfolio.pdf)
+
 #### Professional Experience
 ***University of North Carolina at Chapel Hill***,               ***Chapel Hill, NC***
 
@@ -30,6 +34,3 @@ Master of Engineering, Urban Planning,                   2014-2016
 (ranked among the top 10 engineering universities in China)
 
 Bachelor of Engineering, Urban Planning,                   2009-2014
-
-[DownLoad Resume](https://sunkb-max.github.io/contents/sunpeijin_cv.pdf)
-[Portfolio.pdf](https://sunkb-max.github.io/contents/Portfolio.pdf)
